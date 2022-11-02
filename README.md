@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact)](https://github.com/yofujitsu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact)](https://github.com/yofujitsu/github-readme-stats&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yofujitsu&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yofujitsu&theme=solarized_dark)
