@@ -1,4 +1,6 @@
 <h1 align="center">computer science student | backend developer</h1>
+___
+
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -15,7 +17,9 @@
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </p>
+___
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark"/>
 </p>
 
