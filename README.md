@@ -1,5 +1,6 @@
-### computer science student | backend developer
-___
+<h1 align="center">computer science student | backend developer</h1>
+<p align="center">
+  ___
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,6 +16,9 @@ ___
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 ___
 
