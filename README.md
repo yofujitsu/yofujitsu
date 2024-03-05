@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-<h2 align="center">api integration expirience</h2>
+<h2 align="center">api integration experience</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
