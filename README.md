@@ -11,3 +11,9 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,docker,git,gradle,nginx,kafka,aws,mongodb,mysql,postgres,redis" />
+  </a>
+</p>
