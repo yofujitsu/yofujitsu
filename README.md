@@ -2,7 +2,9 @@
 
 <h2 align="center">старый бог</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofujitsu&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
