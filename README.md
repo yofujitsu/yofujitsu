@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,spring,javascript,postgres,redis,kafka,docker" />
+    <img src="https://skillicons.dev/icons?i=idea,spring,postgres,redis,kafka,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,gradle,css,mongodb,aws,rabbitmq,grafana" />
+    <img src="https://skillicons.dev/icons?i=java,gradle,mongodb,aws,rabbitmq,grafana" />
   </a>
 </p>
