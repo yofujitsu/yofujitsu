@@ -6,6 +6,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,spring,git,postgres,redis,kafka,docker,kubernetes,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,gradle,maven,mongodb,aws,rabbitmq,grafana,ignite,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,gradle,maven,mongodb,aws,rabbitmq,grafana,druid,gitlab" />
   </a>
 </p>
