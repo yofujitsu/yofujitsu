@@ -1,4 +1,4 @@
-<h1 align="center">java backend developer</h1>
+<h1 align="center">java developer</h1>
 
 <h2 align="center">старый бог</h2>
 
