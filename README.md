@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,spring,gradle,postgres,docker,redis,kafka,prometheus,openshift" />
+    <img src="https://skillicons.dev/icons?i=idea,spring,gradle,postgres,docker,redis,kafka,prometheus" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,git,maven,mongodb,kubernetes,aws,rabbitmq,grafana,istio" />
+    <img src="https://skillicons.dev/icons?i=java,git,maven,mongodb,kubernetes,aws,rabbitmq,grafana" />
   </a>
 </p>
