@@ -1,6 +1,6 @@
 <h1 align="center">java developer</h1>
-
-<h2 align="center">старый бог</h2>
+<h2 align="center">all my expierence you can find at Linkedin by following link near profile avatar</h2>
+<h3 align="center">старый бог</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
