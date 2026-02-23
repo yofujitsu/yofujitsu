@@ -6,3 +6,5 @@
     <img src="https://skillicons.dev/icons?i=go,aws,docker,kafka,redis,rabbitmq" />
   </a>
 </p>
+<br>
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198258376387"/>
