@@ -8,3 +8,4 @@
 </p>
 <br>
 <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198258376387"/>
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198258376387)
