@@ -7,4 +7,4 @@
   </a>
 </p>
 <br>
-![Steam](https://github-readme-steam-card.vercel.app/status/?steamid=76561198258376387&format=svg&v=2)
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198258376387&v=2)
