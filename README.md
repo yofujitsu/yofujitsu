@@ -20,9 +20,8 @@ location:   Moscow, Russia
 role:       Java Backend Developer
 focus:      High Load Web Services
 education:  currently getting MCS (Master of Computer Science) at MEPhI (НИЯУ МИФИ) (1st year), got BCS (Bachelor of Computer Science) at RTU MIREA (РТУ МИРЭА) in 2025
+current work: at SberTech as Junior Java Developer
 ```
-
-I build high-load backend systems. Currently working at **SberTech**.
 
 ---
 
