@@ -10,9 +10,9 @@
 
 ### Java Backend Developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-@whateverrr-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kenshiyokohama)
+[![Telegram](https://img.shields.io/badge/Telegram-@kenshiyokohama-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kenshiyokohama)
 [![Discord: se.tsu](https://img.shields.io/badge/Discord-se.tsu-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yofujitsu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yofujitsu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yofujitsu/)
 [![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/psycholxner)
 
 </div>
