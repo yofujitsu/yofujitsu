@@ -1,9 +1,3 @@
-<div align="center">
-
-[**🇷🇺 Russian**](#-обо-мне) · [**🇬🇧 English**](#-about-me)
-
-</div>
-
 ---
 
 <div align="center">
