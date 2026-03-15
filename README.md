@@ -115,7 +115,7 @@ A microservice application simulating card payment transactions and a goods deli
 
 ## CV
 
-| | Link |
+| Lang | Link |
 |--|------|
 | RUS | ([Link](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view)) |
 | ENG | ([Link](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)) |
