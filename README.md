@@ -19,7 +19,7 @@ age:        22
 location:   Moscow, Russia
 role:       Java Backend Developer
 focus:      High Load Web Services
-education:  currently getting MCS at MEPhI (НИЯУ МИФИ) (1st year), got BCS at RTU MIREA (РТУ МИРЭА) in 2025
+education:  currently getting MCS (Master of Computer Science) at MEPhI (НИЯУ МИФИ) (1st year), got BCS (Bachelor of Computer Science) at RTU MIREA (РТУ МИРЭА) in 2025
 ```
 
 I build high-load backend systems. Currently working at **SberTech**.
@@ -75,7 +75,7 @@ I build high-load backend systems. Currently working at **SberTech**.
 
 **Architecture:** REST API · Clean Architecture · Microservices · SaaS · High Load
 
-## Projects
+## Key Projects
 
 ### CS2 Tournament Platform *(Official Patent)*
 > Bachelor's thesis · 2025 · Team of 3
@@ -117,7 +117,7 @@ A microservice application simulating card payment transactions and a goods deli
 
 | | Link |
 |--|------|
-| 🇷🇺 | [Open →]([CV (RU)](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view)) |
-| 🇬🇧 | [Open →]([CV (EN)](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)) |
+| RUS | ([Link](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view)) |
+| ENG | ([Link](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)) |
 
 ---
