@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yofujitsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/yofujitsu/)
 [![Discord](https://img.shields.io/badge/Discord-se.tsu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](https://discord.com)
 
-<br>
-
 ![SberTech](https://img.shields.io/badge/🏢_SberTech-Junior_Java_Developer-24B47F?style=for-the-badge&logo=sberbank&logoColor=white&labelColor=1a1a1a)
 ![MEPhI](https://img.shields.io/badge/🎓_MEPhI-Master's_Student-E6522C?style=for-the-badge&logo=atom&logoColor=white&labelColor=1a1a1a)
 
