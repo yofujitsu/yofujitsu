@@ -16,9 +16,9 @@
 
 ---
 
-## Tech Stack
-
 <div align="center">
+
+## Tech Stack
 
 ### Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
