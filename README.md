@@ -51,9 +51,17 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yofujitsu&theme=github-dark&hide_border=true&fire=2CA5E0&ring=2CA5E0" height="160"/>
-</div> 
+<p align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yofujitsu&theme=2077"/>
+</p>
+<p align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yofujitsu&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yofujitsu&theme=2077"/>
+</p>
+<p align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yofujitsu&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yofujitsu&theme=2077"/>
+</p>
 
 ---
 
