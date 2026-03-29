@@ -2,7 +2,8 @@
 
 # Java Backend Developer
 
-### High-Load Backend & Full-Stack Systems
+> **Focused on design and development of highload backend / full-stack systems & SaaS**  
+> Clean Architecture · Microservices · Scalability · Reliability
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kenshiyokohama-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a)](https://t.me/kenshiyokohama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yofujitsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/yofujitsu/)
@@ -52,18 +53,8 @@
 
 </div>
 
----
-
-## Focus
-
-> **Design and development of High-Load Backend / Full-Stack systems**  
-> Clean Architecture · Microservices · Scalability · Reliability
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yofujitsu&show_icons=true&theme=github_dark&hide_border=true&title_color=fff&icon_color=2CA5E0" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yofujitsu&theme=github-dark&hide_border=true&fire=2CA5E0&ring=2CA5E0" height="150" alt="streak"/>
 </div> 
 
 ---
@@ -76,6 +67,6 @@
 
 <br>
 
-> **You can explore my pet projects in the _Pinned section_** 
+> **You can explore my pet projects in the _Pinned section_ right below** 
 
 </div>
