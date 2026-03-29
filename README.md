@@ -9,9 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yofujitsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/yofujitsu/)
 [![Discord](https://img.shields.io/badge/Discord-se.tsu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](https://discord.com)
 
-![RTU MIREA](https://img.shields.io/badge/🎓_RTU_MIREA-Bachelor's_Degree-E6522C?style=for-the-badge&logo=atom&logoColor=white&labelColor=1a1a1a)
-![MEPhI](https://img.shields.io/badge/🎓_MEPhI-Master's_Student-E6522C?style=for-the-badge&logo=atom&logoColor=white&labelColor=1a1a1a)
-
 </div>
 
 ---
@@ -44,11 +41,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1a1a1a)
 
-### Frontend & AI
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![AI Tools](https://img.shields.io/badge/AI_Tools-9B59B6?style=for-the-badge&logo=google-gemini&logoColor=white&labelColor=1a1a1a)
 
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a1a)
+![Qwen](https://img.shields.io/badge/Qwen-6678FF?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=1a1a1a)
+![OpenCode](https://img.shields.io/badge/OpenCode-00A8E1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
 </div>
 
 <p align=center>
