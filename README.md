@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yofujitsu&show_icons=true&theme=github_dark&hide_border=true&title_color=fff&icon_color=2CA5E0" height="150" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yofujitsu&theme=github-dark&hide_border=true&fire=2CA5E0&ring=2CA5E0" height="160"/>
 </div> 
 
 ---
