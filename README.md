@@ -59,9 +59,11 @@
 
 <div align="center">
 
-### CV
+### CV & Contacts
 
-[📄 CV RU](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view) · [📄 CV EN](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)
+[![CV Russian](https://img.shields.io/badge/CV_Russian-Download-2CA5E0?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a1a)](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view)
+[![CV English](https://img.shields.io/badge/CV_English-Download-0A66C2?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a1a)](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)
+[![Email](https://img.shields.io/badge/yofujitsuuu@gmail.com-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:yofujitsuuu@gmail.com)
 
 <br>
 
