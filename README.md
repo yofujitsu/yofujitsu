@@ -1,6 +1,6 @@
 <div align="center">
 
-# Java Backend Developer
+# Java Developer
 
 > **Focused on design and development of highload backend / full-stack systems & SaaS**  
 > Clean Architecture · Microservices · Scalability · Reliability
