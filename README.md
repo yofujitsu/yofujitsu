@@ -60,10 +60,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yofujitsu&theme=2077"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yofujitsu&theme=2077"/>
 </p>
-<p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yofujitsu&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yofujitsu&theme=2077"/>
-</p>
 
 ---
 
