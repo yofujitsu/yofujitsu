@@ -5,7 +5,7 @@
 </div>
 
 - Backend · Highload · Microservices · SaaS/PaaS
-- B.S. Computer Science @ RTU MIREA'25 | M.S. Computer Science @ NRNU MEPhI'27
+- BTech Software Engineering @ RTU MIREA'25 | MTech Software Engineering @ NRNU MEPhI'27
 
 ---
 
