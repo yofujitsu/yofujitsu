@@ -9,12 +9,10 @@
 
 ---
 
-## Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,postgres,kafka,git,grafana" />
-    <img src="https://skillicons.dev/icons?i=js,react,gradle,kubernetes,redis,rabbit,githubactions,prometheus" />
+    <img src="https://skillicons.dev/icons?i=java,go,js,postgres,docker,kubernetes,redis,kafka,git" />
+    <img src="https://skillicons.dev/icons?i=spring,gradle,maven,react,vite,grafana,prometheus,aws,githubactions" />
   </a>
 </p>
 </div>
