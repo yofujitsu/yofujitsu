@@ -1,6 +1,8 @@
 <div align="center">
 
-# Software Developer
+# Java Software Developer
+
+## B.S. Computer Science at RTU MIREA'25 | M.S. Computer Science at NRNU MEPhI'27
 
 > Backend · Microservices · Highload
 
