@@ -1,13 +1,8 @@
 <div align="center">
 
-# Java Developer
+# Software Developer
 
-> **Focused on design and development of highload backend / full-stack systems & SaaS**  
-> Clean Architecture · Microservices · Scalability · Reliability
-
-[![Telegram](https://img.shields.io/badge/Telegram-@kenshiyokohama-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a)](https://t.me/kenshiyokohama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yofujitsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/yofujitsu/)
-[![Discord](https://img.shields.io/badge/Discord-se.tsu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](https://discord.com)
+> Backend · Microservices · Highload
 
 </div>
 
@@ -53,26 +48,14 @@
 ![OpenCode](https://img.shields.io/badge/OpenCode-00A8E1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
 </div>
 
-<p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yofujitsu&theme=2077"/>
-</p>
-<p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yofujitsu&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yofujitsu&theme=2077"/>
-</p>
-
 ---
 
 <div align="center">
 
-### CV & Contacts
+### Contacts
 
 [![CV Russian](https://img.shields.io/badge/CV_Russian-Download-2CA5E0?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a1a)](https://drive.google.com/file/d/1f_feMgh3YiE6OVYg455pukHSifoQ8B83/view)
 [![CV English](https://img.shields.io/badge/CV_English-Download-0A66C2?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a1a)](https://drive.google.com/file/d/1tKbXkVxiRWsXuG2yksRON3OebacnqxxX/view?usp=sharing)
 [![Email](https://img.shields.io/badge/yofujitsuuu@gmail.com-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:yofujitsuuu@gmail.com)
-
-<br>
-
-> **You can explore my pet projects in the _Pinned section_ right below** 
 
 </div>
