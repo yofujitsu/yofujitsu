@@ -2,12 +2,12 @@
 
 # Java Software Developer
 
-Backend · Highload · Microservices · SaaS/PaaS
+## Backend · Highload · Microservices · SaaS/PaaS
 
 </div>
 
 <div>
-B.S. Computer Science at RTU MIREA'25 | M.S. Computer Science at NRNU MEPhI'27
+## B.S. Computer Science at RTU MIREA'25 | M.S. Computer Science at NRNU MEPhI'27
   
 </div>
 
