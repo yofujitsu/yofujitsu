@@ -2,11 +2,10 @@
 
 --- 
 
-<div align="center">
 ## Backend · Highload · Microservices · SaaS/PaaS
 ## B.S. Computer Science at RTU MIREA'25 | M.S. Computer Science at NRNU MEPhI'27
 
-<div align="center">
+---
 
 ## Tech Stack
 
