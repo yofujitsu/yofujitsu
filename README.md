@@ -1,11 +1,11 @@
 <div align="center">
 
-# Java Software Developer
+# Java Software Engineer
 
 </div>
 
 - Backend · Highload · Microservices · SaaS/PaaS
-- BTech Software Engineering @ RTU MIREA'25 | MTech Software Engineering @ NRNU MEPhI'27
+- BTech SWE @ RTU MIREA'25 | MTech SWE @ NRNU MEPhI'27
 
 ---
 
