@@ -16,8 +16,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,js,postgres,docker,kubernetes,redis,kafka,git" />
-    <img src="https://skillicons.dev/icons?i=spring,gradle,maven,react,vite,grafana,prometheus,aws,githubactions" />
+    <img src="https://skillicons.dev/icons?i=java,go,js,ts,postgres,docker,kubernetes,redis,kafka,git" />
+    <img src="https://skillicons.dev/icons?i=spring,gradle,maven,react,vite,shadcn,grafana,prometheus,aws,githubactions" />
   </a>
 </p>
 
