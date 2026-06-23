@@ -1,10 +1,10 @@
 <div align="center">
 
-# Java Software Engineer
+# Software Engineer
 
 </div>
 
-- Backend · Highload · Microservices · SaaS/PaaS
+- Backend · Highload · Microservices · SaaS/PaaS · AI Agents · MCP 
 - BTech SWE @ RTU MIREA'25 | MTech SWE @ NRNU MEPhI'27
 
 ---
