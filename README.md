@@ -4,7 +4,7 @@
 
 </div>
 
-- Backend · Highload · Microservices · SaaS/PaaS · AI Agents · MCP 
+- Backend · Highload · Microservices · SaaS/PaaS · Agentic Coding · AI PDLC · MCP 
 - BTech SWE @ RTU MIREA'25 | MTech SWE @ NRNU MEPhI'27
 
 ---
