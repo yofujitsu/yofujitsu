@@ -16,10 +16,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts" />
-    <img src="https://skillicons.dev/icons?i=spring,react,vite" />
-    <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,redis,kafka,grafana" />
-    
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,react,vite,postgres,docker,kubernetes,redis,kafka,grafana"/>
+  
   </a>
 </p>
 
