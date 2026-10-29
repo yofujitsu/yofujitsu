@@ -2,8 +2,8 @@
 
 </div>
 
-- SWE · Backend · Highload · Microservices · SDD · Agentic Coding · AI PDLC · MCP 
-- BTech SWE @ RTU MIREA'25 | MTech SWE @ NRNU MEPhI'27
+<p align="center">Backend · Highload · Microservices · SDD · Agentic Coding · AI PDLC · MCP</p> 
+<p align="center">BTech SWE @ RTU MIREA'25 | MTech SWE @ NRNU MEPhI'27</p>
 
 ---
 
